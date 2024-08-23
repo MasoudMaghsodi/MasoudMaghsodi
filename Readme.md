@@ -45,20 +45,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasoudMaghsodi&langs_count=4&theme=gotham&show_icons=true&radius=16)](https://github.com/MasoudMaghsodi/github-readme-stats)
-
-## Stats:
-![MasoudMaghsodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasoudMaghsodi&theme=gotham&show_icons=true7radius=16)
-
-## Contributions :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MasoudMaghsodi&theme=dark&date_format=j%2Fn%5B%2FY%5D&fire=DD2727)](https://git.io/streak-stats" /></p>
-
-## Activity Graph:
-
-
-[![MasoudMaghsodi's github activity graph](https://activity-graph.herokuapp.com/graph?username=MasoudMaghsodi&theme=gotham&radius=16)](https://github.com/MasoudMaghsodi/github-readme-activity-graph)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
